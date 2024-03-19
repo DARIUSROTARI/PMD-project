@@ -3,6 +3,7 @@ Acest proiect a fost conceput pentru disciplina Proiectarea Microsistemelor Digi
 
 Cerintele proiectului:
 Sa se proiecteze un microsistem cu urmatoarea structura:
+
  unitate centrala cu microprocesorul 8086;
 
  128 KB memorie EPROM, utilizand circuite 27C1024;
